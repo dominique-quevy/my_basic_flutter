@@ -25,10 +25,10 @@ class MyHomePage extends StatefulWidget {
   // how it looks.
   // This class is the configuration for the state.
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  MyHomePageState createState() => MyHomePageState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
   void _incrementCounter() {
