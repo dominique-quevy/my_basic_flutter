@@ -30,6 +30,13 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^3.0.1 # ^2.0.3 # ^1.0.0
+  # flutter_localization: ^0.1.14
+  # google_fonts: ^6.1.0
+  # http: ">1.0.0 <2.3.0-beta"
+  # test: #^1.24.9  # ^1.24.3
+  # test_api: ^0.6.0
+  # collection: ^1.17.2
+  
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
